@@ -1,0 +1,20 @@
+{
+  "short_name": "Felicity 2023",
+  "name": "Felicity 2023 Website",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Felicity_White.png",
+      "type": "image/png",
+      "sizes": "979x476"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
