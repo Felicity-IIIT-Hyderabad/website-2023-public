@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4320a8bc.css",
-    "main.js": "/static/js/main.ab870e76.js",
+    "main.js": "/static/js/main.3d527e93.js",
     "static/media/TET_LOGO.jpg": "/static/media/TET_LOGO.713c845078c56dce88c9.jpg",
     "static/media/qualcomm.png": "/static/media/qualcomm.c593ff02fabf80462e1f.png",
     "static/media/Fuschia_Logo.jpeg": "/static/media/Fuschia_Logo.f12ad5acaaef3b337154.jpeg",
@@ -22,10 +22,10 @@
     "static/media/fbicon.svg": "/static/media/fbicon.b260cbda27cfd3152853c54e52e22525.svg",
     "static/media/triangle.svg": "/static/media/triangle.495d143bc1b3d8931bf916e235224438.svg",
     "main.4320a8bc.css.map": "/static/css/main.4320a8bc.css.map",
-    "main.ab870e76.js.map": "/static/js/main.ab870e76.js.map"
+    "main.3d527e93.js.map": "/static/js/main.3d527e93.js.map"
   },
   "entrypoints": [
     "static/css/main.4320a8bc.css",
-    "static/js/main.ab870e76.js"
+    "static/js/main.3d527e93.js"
   ]
 }
