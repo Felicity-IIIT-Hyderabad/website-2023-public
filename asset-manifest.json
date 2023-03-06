@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.4320a8bc.css",
-    "main.js": "/static/js/main.44233b30.js",
+    "main.js": "/static/js/main.ab870e76.js",
     "static/media/TET_LOGO.jpg": "/static/media/TET_LOGO.713c845078c56dce88c9.jpg",
     "static/media/qualcomm.png": "/static/media/qualcomm.c593ff02fabf80462e1f.png",
     "static/media/Fuschia_Logo.jpeg": "/static/media/Fuschia_Logo.f12ad5acaaef3b337154.jpeg",
     "static/media/IIITprep-White.png": "/static/media/IIITprep-White.b9f0aaf6c6e1a6e0c34f.png",
+    "static/media/BA_Logo_Blue_On_White.png": "/static/media/BA_Logo_Blue_On_White.b4c09c5769297e4befac.png",
     "static/media/GoGo-Hack.ttf": "/static/media/GoGo-Hack.d692cba14634cc0441f6.ttf",
     "static/media/FivoSans-Regular.otf": "/static/media/FivoSans-Regular.f010dad46e2810b3a210.otf",
     "static/media/FivoSans-Bold.otf": "/static/media/FivoSans-Bold.741490f86192b2bf9dcc.otf",
@@ -21,10 +22,10 @@
     "static/media/fbicon.svg": "/static/media/fbicon.b260cbda27cfd3152853c54e52e22525.svg",
     "static/media/triangle.svg": "/static/media/triangle.495d143bc1b3d8931bf916e235224438.svg",
     "main.4320a8bc.css.map": "/static/css/main.4320a8bc.css.map",
-    "main.44233b30.js.map": "/static/js/main.44233b30.js.map"
+    "main.ab870e76.js.map": "/static/js/main.ab870e76.js.map"
   },
   "entrypoints": [
     "static/css/main.4320a8bc.css",
-    "static/js/main.44233b30.js"
+    "static/js/main.ab870e76.js"
   ]
 }
