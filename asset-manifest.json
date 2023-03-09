@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.48760d21.css",
-    "main.js": "/static/js/main.de43627f.js",
+    "main.css": "/static/css/main.cb2149af.css",
+    "main.js": "/static/js/main.86074237.js",
     "static/media/qualcomm.png": "/static/media/qualcomm.c593ff02fabf80462e1f.png",
     "static/media/Fuschia_Logo.jpeg": "/static/media/Fuschia_Logo.f12ad5acaaef3b337154.jpeg",
     "static/media/Bungee-Regular.ttf": "/static/media/Bungee-Regular.3d95fa68283102c29cd9.ttf",
@@ -11,6 +11,7 @@
     "static/media/TET_LOGO_no_bg.png": "/static/media/TET_LOGO_no_bg.7b8e484ef35a0b0481f8.png",
     "static/media/FivoSans-Regular.otf": "/static/media/FivoSans-Regular.f010dad46e2810b3a210.otf",
     "static/media/FivoSans-Bold.otf": "/static/media/FivoSans-Bold.741490f86192b2bf9dcc.otf",
+    "static/media/ubc_nobg.png": "/static/media/ubc_nobg.eaed15c10759e9e7d2f2.png",
     "static/media/MicronWhite.png": "/static/media/MicronWhite.d94657bbb61dcc211d68.png",
     "static/media/ustaad_nobg.png": "/static/media/ustaad_nobg.448a3a302eceac6d98bf.png",
     "static/media/sponsors.svg": "/static/media/sponsors.71a579482adeef4bdcbd47c41ad3d058.svg",
@@ -22,11 +23,11 @@
     "static/media/yticon.svg": "/static/media/yticon.e1f3b22c61f2bc10aef13c08fab2dd66.svg",
     "static/media/fbicon.svg": "/static/media/fbicon.b260cbda27cfd3152853c54e52e22525.svg",
     "static/media/triangle.svg": "/static/media/triangle.495d143bc1b3d8931bf916e235224438.svg",
-    "main.48760d21.css.map": "/static/css/main.48760d21.css.map",
-    "main.de43627f.js.map": "/static/js/main.de43627f.js.map"
+    "main.cb2149af.css.map": "/static/css/main.cb2149af.css.map",
+    "main.86074237.js.map": "/static/js/main.86074237.js.map"
   },
   "entrypoints": [
-    "static/css/main.48760d21.css",
-    "static/js/main.de43627f.js"
+    "static/css/main.cb2149af.css",
+    "static/js/main.86074237.js"
   ]
 }
