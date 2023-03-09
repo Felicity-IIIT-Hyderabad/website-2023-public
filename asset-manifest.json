@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cb2149af.css",
-    "main.js": "/static/js/main.86074237.js",
+    "main.js": "/static/js/main.1fa8320d.js",
     "static/media/qualcomm.png": "/static/media/qualcomm.c593ff02fabf80462e1f.png",
     "static/media/Fuschia_Logo.jpeg": "/static/media/Fuschia_Logo.f12ad5acaaef3b337154.jpeg",
     "static/media/Bungee-Regular.ttf": "/static/media/Bungee-Regular.3d95fa68283102c29cd9.ttf",
@@ -24,10 +24,10 @@
     "static/media/fbicon.svg": "/static/media/fbicon.b260cbda27cfd3152853c54e52e22525.svg",
     "static/media/triangle.svg": "/static/media/triangle.495d143bc1b3d8931bf916e235224438.svg",
     "main.cb2149af.css.map": "/static/css/main.cb2149af.css.map",
-    "main.86074237.js.map": "/static/js/main.86074237.js.map"
+    "main.1fa8320d.js.map": "/static/js/main.1fa8320d.js.map"
   },
   "entrypoints": [
     "static/css/main.cb2149af.css",
-    "static/js/main.86074237.js"
+    "static/js/main.1fa8320d.js"
   ]
 }
