@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d637016.css",
-    "main.js": "/static/js/main.9272dac3.js",
+    "main.css": "/static/css/main.b074f5da.css",
+    "main.js": "/static/js/main.34615c05.js",
     "static/media/MENTORx logo.png": "/static/media/MENTORx logo.3699f259496db7789c77.png",
     "static/media/qualcomm.png": "/static/media/qualcomm.c593ff02fabf80462e1f.png",
     "static/media/RevUp Logo.png": "/static/media/RevUp Logo.6778751ad02668af2495.png",
@@ -31,11 +31,11 @@
     "static/media/yticon.svg": "/static/media/yticon.e1f3b22c61f2bc10aef13c08fab2dd66.svg",
     "static/media/fbicon.svg": "/static/media/fbicon.b260cbda27cfd3152853c54e52e22525.svg",
     "static/media/triangle.svg": "/static/media/triangle.495d143bc1b3d8931bf916e235224438.svg",
-    "main.9d637016.css.map": "/static/css/main.9d637016.css.map",
-    "main.9272dac3.js.map": "/static/js/main.9272dac3.js.map"
+    "main.b074f5da.css.map": "/static/css/main.b074f5da.css.map",
+    "main.34615c05.js.map": "/static/js/main.34615c05.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d637016.css",
-    "static/js/main.9272dac3.js"
+    "static/css/main.b074f5da.css",
+    "static/js/main.34615c05.js"
   ]
 }
