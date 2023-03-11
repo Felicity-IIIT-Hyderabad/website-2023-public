@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.9d637016.css",
-    "main.js": "/static/js/main.b73ff485.js",
+    "main.js": "/static/js/main.3d0860a3.js",
     "static/media/MENTORx logo.png": "/static/media/MENTORx logo.3699f259496db7789c77.png",
     "static/media/qualcomm.png": "/static/media/qualcomm.c593ff02fabf80462e1f.png",
     "static/media/RevUp Logo.png": "/static/media/RevUp Logo.6778751ad02668af2495.png",
     "static/media/Fuschia_Logo.jpeg": "/static/media/Fuschia_Logo.f12ad5acaaef3b337154.jpeg",
+    "static/media/monster.png": "/static/media/monster.30e2cfc765590056ead5.png",
     "static/media/HoverRobotix Logo.png": "/static/media/HoverRobotix Logo.7fe3331803d5ea6c783a.png",
     "static/media/Bungee-Regular.ttf": "/static/media/Bungee-Regular.3d95fa68283102c29cd9.ttf",
     "static/media/IIITprep-White.png": "/static/media/IIITprep-White.b9f0aaf6c6e1a6e0c34f.png",
@@ -17,8 +18,10 @@
     "static/media/FivoSans-Regular.otf": "/static/media/FivoSans-Regular.f010dad46e2810b3a210.otf",
     "static/media/FivoSans-Bold.otf": "/static/media/FivoSans-Bold.741490f86192b2bf9dcc.otf",
     "static/media/ubc_nobg.png": "/static/media/ubc_nobg.eaed15c10759e9e7d2f2.png",
+    "static/media/NSGLOGO.png": "/static/media/NSGLOGO.29ffa45a21692ab3f400.png",
     "static/media/MicronWhite.png": "/static/media/MicronWhite.d94657bbb61dcc211d68.png",
     "static/media/ustaad_nobg.png": "/static/media/ustaad_nobg.448a3a302eceac6d98bf.png",
+    "static/media/GrabOn.png": "/static/media/GrabOn.d236cffc6e1d5d5fde6d.png",
     "static/media/sponsors.svg": "/static/media/sponsors.71a579482adeef4bdcbd47c41ad3d058.svg",
     "static/media/About.svg": "/static/media/About.0017f8edb157dccff26c1c5d71eab293.svg",
     "static/media/title.svg": "/static/media/title.ff9ef92f7e6fb30a6391a1a23068c248.svg",
@@ -29,10 +32,10 @@
     "static/media/fbicon.svg": "/static/media/fbicon.b260cbda27cfd3152853c54e52e22525.svg",
     "static/media/triangle.svg": "/static/media/triangle.495d143bc1b3d8931bf916e235224438.svg",
     "main.9d637016.css.map": "/static/css/main.9d637016.css.map",
-    "main.b73ff485.js.map": "/static/js/main.b73ff485.js.map"
+    "main.3d0860a3.js.map": "/static/js/main.3d0860a3.js.map"
   },
   "entrypoints": [
     "static/css/main.9d637016.css",
-    "static/js/main.b73ff485.js"
+    "static/js/main.3d0860a3.js"
   ]
 }
