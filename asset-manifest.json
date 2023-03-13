@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5f4d96a9.css",
-    "main.js": "/static/js/main.a0ed7882.js",
+    "main.js": "/static/js/main.a1cdfc48.js",
     "static/media/MENTORx logo.png": "/static/media/MENTORx logo.3699f259496db7789c77.png",
     "static/media/qualcomm.png": "/static/media/qualcomm.c593ff02fabf80462e1f.png",
     "static/media/RevUp Logo.png": "/static/media/RevUp Logo.6778751ad02668af2495.png",
@@ -32,10 +32,10 @@
     "static/media/fbicon.svg": "/static/media/fbicon.b260cbda27cfd3152853c54e52e22525.svg",
     "static/media/triangle.svg": "/static/media/triangle.495d143bc1b3d8931bf916e235224438.svg",
     "main.5f4d96a9.css.map": "/static/css/main.5f4d96a9.css.map",
-    "main.a0ed7882.js.map": "/static/js/main.a0ed7882.js.map"
+    "main.a1cdfc48.js.map": "/static/js/main.a1cdfc48.js.map"
   },
   "entrypoints": [
     "static/css/main.5f4d96a9.css",
-    "static/js/main.a0ed7882.js"
+    "static/js/main.a1cdfc48.js"
   ]
 }
