@@ -1,7 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.61eb22ad.css",
-    "main.js": "/static/js/main.851ae652.js",
+    "main.css": "/static/css/main.d612cbd8.css",
+    "main.js": "/static/js/main.437ed143.js",
+    "static/media/DSC_0169.JPG": "/static/media/DSC_0169.08cffb0879dcdded4660.JPG",
+    "static/media/DSC_0483.JPG": "/static/media/DSC_0483.2216f968f23c0f72ad86.JPG",
+    "static/media/DSC_0229.JPG": "/static/media/DSC_0229.c03f7d3d63a67a4d9885.JPG",
+    "static/media/DSC_0228.JPG": "/static/media/DSC_0228.b983b0d135db9bf414ed.JPG",
+    "static/media/DSC_0168.JPG": "/static/media/DSC_0168.0958a4c2343fa13da2f6.JPG",
+    "static/media/DSC_0097.JPG": "/static/media/DSC_0097.4e0fe4199b6c0e7eda7a.JPG",
+    "static/media/DSC03114.JPG": "/static/media/DSC03114.aa8a11960a13b4980ec4.JPG",
+    "static/media/DSC03102.JPG": "/static/media/DSC03102.018c95e75d1a4afd408d.JPG",
+    "static/media/PXL_20230129_142622414.MP.jpg": "/static/media/PXL_20230129_142622414.MP.7ff4e2053fe05e6af7f7.jpg",
+    "static/media/PXL_20230128_173010489.MP.jpg": "/static/media/PXL_20230128_173010489.MP.3d1913c297941b192942.jpg",
+    "static/media/20230129_192959.jpg": "/static/media/20230129_192959.a83a3a30c5131e15b904.jpg",
+    "static/media/PXL_20230128_144359272.jpg": "/static/media/PXL_20230128_144359272.fba22a5c841cea1e88d4.jpg",
+    "static/media/PXL_20230128_144539855.jpg": "/static/media/PXL_20230128_144539855.57e5fd47130c82b0ff27.jpg",
+    "static/media/PXL_20230128_155312684.MP.jpg": "/static/media/PXL_20230128_155312684.MP.fd80909c3005d87c2954.jpg",
+    "static/media/PXL_20230129_180146142.jpg": "/static/media/PXL_20230129_180146142.08f5921e4fa827e73e00.jpg",
+    "static/media/PXL_20230129_180134211.jpg": "/static/media/PXL_20230129_180134211.b1441db8ea82975803f3.jpg",
     "static/media/MENTORx logo.png": "/static/media/MENTORx logo.3699f259496db7789c77.png",
     "static/media/qualcomm.png": "/static/media/qualcomm.c593ff02fabf80462e1f.png",
     "static/media/RevUp Logo.png": "/static/media/RevUp Logo.6778751ad02668af2495.png",
@@ -35,11 +51,11 @@
     "static/media/yticon.svg": "/static/media/yticon.e1f3b22c61f2bc10aef13c08fab2dd66.svg",
     "static/media/fbicon.svg": "/static/media/fbicon.b260cbda27cfd3152853c54e52e22525.svg",
     "static/media/triangle.svg": "/static/media/triangle.495d143bc1b3d8931bf916e235224438.svg",
-    "main.61eb22ad.css.map": "/static/css/main.61eb22ad.css.map",
-    "main.851ae652.js.map": "/static/js/main.851ae652.js.map"
+    "main.d612cbd8.css.map": "/static/css/main.d612cbd8.css.map",
+    "main.437ed143.js.map": "/static/js/main.437ed143.js.map"
   },
   "entrypoints": [
-    "static/css/main.61eb22ad.css",
-    "static/js/main.851ae652.js"
+    "static/css/main.d612cbd8.css",
+    "static/js/main.437ed143.js"
   ]
 }
